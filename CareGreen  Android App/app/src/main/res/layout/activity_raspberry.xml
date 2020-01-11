@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".RaspberryActivity"
+        android:orientation="vertical">
+
+    <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+            <Button
+                    android:id="@+id/apple"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/apple"
+                    android:layout_margin="5dp"></Button>
+
+            <Button
+                    android:id="@+id/orange"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/orange"
+                    android:layout_margin="5dp"></Button>
+
+            <Button
+                    android:id="@+id/pepper"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/pepper"
+                    android:layout_margin="5dp"></Button>
+
+            <Button
+                    android:id="@+id/grape"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/grape"
+                    android:layout_margin="5dp"></Button>
+
+            <Button
+                    android:id="@+id/blueberry"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/blueberry"
+                    android:layout_margin="5dp"></Button>
+
+            <Button
+                    android:id="@+id/corn"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/corn"
+                    android:layout_margin="5dp"></Button>
+
+            <Button
+                    android:id="@+id/peach"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/peach"
+                    android:layout_margin="5dp"></Button>
+
+
+            <Button
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/potato"
+                    android:id="@+id/potato"
+                    android:layout_margin="5dp"></Button>
+            <Button
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/tomato"
+                    android:id="@+id/tomato"
+                    android:layout_margin="5dp"></Button>
+            <Button
+                    android:id="@+id/strawberry"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/strawberry"
+                    android:layout_margin="5dp"></Button>
+
+            <Button
+                    android:id="@+id/soybean"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/soybean"
+                    android:layout_margin="5dp"></Button>
+
+            <Button
+                    android:id="@+id/cherry"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/cherry"
+                    android:layout_margin="5dp"></Button>
+
+            <Button
+                    android:id="@+id/raspberry"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/raspberry"
+                    android:layout_margin="5dp"></Button>
+
+            <Button
+                    android:id="@+id/squash"
+                    android:layout_width="110dp"
+                    android:layout_height="110dp"
+                    android:background="@drawable/squash"
+                    android:layout_margin="5dp"></Button>
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/btt"
+            android:layout_marginTop="10dp">
+
+        <TextView
+                android:id="@+id/textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RASPBERRY"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:padding="5dp"></TextView>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+            <Button
+                    android:id="@+id/fertilizer_cal"
+                    android:layout_width="190dp"
+                    android:layout_height="130dp"
+                    android:background="@drawable/fert"
+                    android:layout_margin="10dp"></Button>
+
+            <Button
+                    android:id="@+id/pests"
+                    android:layout_width="190dp"
+                    android:layout_height="130dp"
+                    android:background="@drawable/pest"
+                    android:layout_marginTop="10dp"></Button>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <HorizontalScrollView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_marginTop="10dp">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+            <TextView
+                    android:layout_width="250dp"
+                    android:layout_height="match_parent"
+                    android:text="@string/tomato_detail"
+                    android:textColor="#000000"
+                    android:layout_marginLeft="15dp"
+                    android:textSize="15dp"></TextView>
+            <ImageView
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:src="@drawable/raspberry"
+                    android:alpha="0.4"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="30dp"></ImageView>
+
+            <Button
+                    android:id="@+id/weather"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:background="@drawable/weather"></Button>
+
+
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Weather Station"
+                android:textSize="20dp"
+                android:textColor="#000000"
+                android:layout_marginLeft="110dp"
+                android:layout_marginBottom="10dp"></TextView>
+
+        <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/arrow"></ImageView>
+    </LinearLayout>
+
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/health">
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Health Check"
+                android:textSize="20dp"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:layout_margin="12dp"></TextView>
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Take a picture of your crop to detect\ndisease and receive treatment advice"
+                android:textColor="#000000"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"></TextView>
+
+        <Button
+                android:id="@+id/health_check"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:text="Health Check"
+                android:layout_marginLeft="65dp"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/round_button_health"></Button>
+
+
+    </LinearLayout>
+
+</LinearLayout>

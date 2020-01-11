@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id" />
+    <item name="mPhotoImageView" type="id" />
+    <item name="mDetectButton" type="id" />
+    <item name="mResultTextView" type="id" />
+</resources>

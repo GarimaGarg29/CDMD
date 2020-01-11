@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Care Green</string>
+    <string name="buttonSelectPhoto">Select Photo</string>
+    <string name="buttonTakePhoto">Start Camera</string>
+    <string name="buttonDiagnose">Detect</string>
+    <string name="defaultImage">Input image</string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="leaf_disease_detection">Leaf Disease Detection</string>
+    <string name="a4">Apple tree leaves are alternate. Form refers to to complexity of
+        the leaf, which can be simple, compound or twice compound. A simple leaf has a single 
+        leaf on a single stem. A compound leaf has multiple leaves on a single stem.
+    You may like Fuji, Gala, or Honeycrisp apples while others prefer Granny Smith, Pippin
+        (not the Hobbit), or Golden Delicious. Regardless of taste preference, apples are widely
+        known to be high in fiber and low in calories—a great mix for someone trying to eat healthy.
+    </string>
+    <string name="a1">Apple scab is a disease of Malus trees, such as apple trees, caused by the ascomycete fungus Venturia inaequalis. The disease manifests as dull black or grey-brown lesions on the surface of tree leaves, buds or fruits. Lesions may also appear less frequently on the woody tissues of the tree.</string>
+    <string name="a2">Black rot is a name used for various diseases of cultivated plants caused by fungi or bacteria, producing dark brown discoloration and decay in the leaves of fruit and vegetables: A disease of the apple, pear and quince caused by a fungus (Botryosphaeria obtusa or Physalospora cydoniae)</string>
+    <string name="a3">Gymnosporangium juniperi-virginianae is a plant pathogen that causes cedar-apple rust. In virtually any location where apples or crabapples and Eastern red-cedar coexist, cedar apple rust can be a destructive or disfiguring disease on both the apples and cedars.</string>
+    <string name="a5">Blueberries Leaves are incredibly high in the phenolic compounds found in the antioxidant anthocyanins which gives them a significantly greater ability to counteract damaging free radicals. The antioxidants work to keep cancers and other diseases at bay.</string>
+    <string name="a6">Powdery mildew of sweet and sour cherry is caused by Podosphaera clandestina, an obligate biotrophic fungus. Mid- and late-season sweet cherry (Prunus avium) cultivars are commonly affected, rendering them unmarketable due to the covering of white fungal growth on the cherry surface</string>
+    <string name="a7">Sour Cherry leaves are rich in antioxidants, flavanoids, phenolic acids, and salicylic acid, which aid in maintaining cellular and skin health. Some studies have shown that Sour Cherry leaves may contain compounds with anti-inflammatory properties, and like the fruit, may provide some relief for muscle pain.</string>
+    <string name="a8"><![CDATA[Grey leaf spot (GLS) is a foliar fungal disease that affects maize, also known as corn. … There are two fungal pathogens that cause GLS, which are Cercospora zeae-maydis and Cercospora zeina . Symptoms seen on corn include leaf lesions, discoloration (chlorosis), and foliar blight.]]></string>
+    <string name="a9">Common corn rust, caused by the fungus Puccinia sorghi, is the most frequently occurring of the two primary rust diseases of corn in the U.S., but it rarely causes significant yield losses in Ohio field (dent) corn.</string>
+    <string name="a10">Northern corn leaf blight (NCLB) is a foliar disease of corn (maize) caused by Exserohilum turcicum, the anamorph of the ascomycete Setosphaeria turcica. With its characteristic cigar-shaped lesions, this disease can cause significant yield loss in susceptible corn hybrids.</string>
+    <string name="a11">Its a good source of antioxidant carotenoids, such as lutein and zeaxanthin, yellow corn may promote eye health. It\'s also a rich source of many vitamins and minerals. For this reason, moderate consumption of whole grain corn, such as popcorn or sweet corn, can be an excellent addition to a healthy diet.</string>
+    <string name="a12">Grape black rot is a fungal disease caused by an ascomycetous fungus, Guignardia bidwellii, that attacks grape vines during hot and humid weather. “Grape black rot originated in eastern North America, but now occurs in portions of Europe, South America, and Asia.</string>
+    <string name="a14">Leaf blight, also called Isariopsis leaf spot (Pseudocercospora vitis) on Grape (Vitus sp.) Synnema with conidia of the asexual fungus, Pseudocercospora vitis. ... Close-up of dark green-black "synnemata", clusters of conidiophores and conidia, coming up from infected tissue.</string>
+    <string name="a15">The nutrients in grapes may help protect against cancer, eye problems, cardiovascular disease, and other health conditions. Resveratrol is a key nutrient in grapes that may offer health benefits. Grapes are a good source of fiber, potassium, and a range of vitamins and other minerals.</string>
+    <string name="a16">Citrus greening disease is a disease of citrus caused by a vector-transmitted pathogen. The causative agents are motile bacteria, Candidatus Liberibacter spp. </string>
+    <string name="a17">Bacterial leaf spot of peach, also known as bacterial shot hole, is a common disease on older peach trees and nectarines. This peach tree leaf spot disease is caused by the bacterium Xanthomonas campestris pv. Pruni.</string>
+    <string name="a18">Peaches are low in calories (100 g just provide 39 calories), and contain no saturated fats. Nonetheless, they are packed with numerous health promoting compounds, minerals, and vitamins. ... Vitamin A is essential for prevention of night vision issues and for maintaining healthy mucus membranes and healthy skin.</string>
+    <string name="a19">Bacterial spot on peppers first appears as small, water-soaked areas on the undersides of leaves. These areas can quickly enlarge into spots that are up to ¼ inch in diameter, turn dark brown and become slightly raised.</string>
+    <string name="a20">Bell peppers are rich in many vitamins and antioxidants, especially vitamin C and various carotenoids. For this reason, they may have several health benefits, such as improved eye health and reduced risk of several chronic diseases. All in all, bell peppers are an excellent addition to a healthy diet.</string>
+    <string name="a21">Early blight (EB) is a disease of potato caused by the fungus Alternaria solani. It is found wherever potatoes are grown. The disease primarily affects leaves and stems, but under favorable weather conditions, and if left uncontrolled, can result in considerable defoliation and enhance the chance for tuber infection.</string>
+    <string name="a22">Phytophthora infestans is an oomycete or water mold, a microorganism that causes the serious potato and tomato disease known as late blight or potato blight.</string>
+    <string name="a23">When cooked the right way — without heaps of butter, cheese or cream — they can even be good for you. Potatoes are low in calories — a medium-sized baked potato contains only about 110 calories. They are a good source of vitamins C and B6, manganese, phosphorus, niacin and pantothenic acid.</string>
+    <string name="a24">Red Raspberries contain strong antioxidants such as Vitamin C, quercetin and gallic acid that fight against cancer, heart and circulatory disease and age-related decline. They are high in ellagic acid, a known chemopreventative, and have been shown to have anti-inflammatory properties.</string>
+    <string name="a25">Soybeans are low in saturated fat and high in protein, vitamin C, and folate. They are also a good source of fiber, calcium, iron, magnesium, phosphorus, potassium, and thiamin.</string>
+    <string name="a26">Powdery mildew, mainly caused by the fungus Podosphaera xanthii, infects all cucurbits, including muskmelons, squash, cucumbers, gourds, watermelons and pumpkins. In severe cases, powdery mildew can cause premature death of leaves, and reduce yield and fruit quality.</string>
+    <string name="a28">Nutritional Benefits of the Strawberry. ... Packed with vitamins, fiber, and particularly high levels of antioxidants known as polyphenols, strawberries are a sodium-free, fat-free, cholesterol-free, low-calorie food.</string>
+    <string name="a29">This disease is a result of the bacteria xanthomonas campestris pv. vesicatoria, which can exist on tomato seeds as well as on specific weeds. ... Symptoms of bacterial spot first appear as small, greasy, and irregular marks under the tomato plant\'s leaves.</string>
+    <string name="a30">Tomato blight, in its different forms, is a disease that attacks a plant\'s foliage, stems, and even fruit. Early blight (one form of tomato blight) is caused by a fungus, Alternaria solani, which over-winters in the soil and infected plants. Affected plants underproduce. Leaves may drop, leaving fruit open to sunscald.</string>
+    <string name="a31">Late blight is a potentially devastating disease of tomato and potato, infecting leaves, stems and fruits of tomato plants. The disease spreads quickly in fields and can result in total crop failure if untreated. Late blight of potato was responsible for the Irish potato famine of the late 1840s.</string>
+    <string name="a32">Cladosporium fulvum is an Ascomycete called Passalora fulva, a non-obligate pathogen that causes the disease on tomato known as the Tomato leaf mold. P. fulva only attacks tomato plants, especially the foliage, and it is a common disease in greenhouses, but can also occur in the field.</string>
+    <string name="a33">Septoria leaf spot is caused by a fungus, Septoria lycopersici. It is one of the most destructive diseases of tomato foliage and is particularly severe in areas where wet, humid weather persists for extended periods.</string>
+    <string name="a34">The two-spotted spider mite is the most common mite species that attacks vegetable and fruit crops in New England. ... Two-spotted spider mites are one of the most important pests of eggplant.</string>
+    <string name="a35">Also known as early blight, target spot of tomato is a fungal disease that attacks a diverse assortment of plants, including papaya, peppers, snap beans, potatoes, cantaloupe and squash, as well as passion flower and certain ornamentals.</string>
+    <string name="a36">Tomato yellow leaf curl virus (TYLCV) is a DNA virus from the genus Begomovirus and the family Geminiviridae. TYLCV causes the most destructive disease of tomato, and it can be found in tropical and subtropical regions causing severe economic losses.</string>
+    <string name="a37">Tomato mosaic virus (ToMV) and Tobacco mosaic virus (TMV) are hard to distinguish. Tomato mosaic virus (ToMV) can cause yellowing and stunting of tomato plants resulting in loss of stand and reduced yield. ... TMV is usually more of a tobacco pathogen than a tomato pathogen.</string>
+    <string name="a38">Tomatoes are the major dietary source of the antioxidant lycopene, which has been linked to many health benefits, including reduced risk of heart disease and cancer. They are also a great source of vitamin C, potassium, folate, and vitamin K.</string>
+    <string name="a13">Grapevine measles, also called esca, black measles or Spanish measles, has long plagued grape growers with its cryptic expression of symptoms and, for a long time, a lack of identifiable causal organism(s). ... Early spring symptoms include shoot tip dieback, leaf discoloration and complete defoliation in severe cases.</string>
+    <string name="a27">Scorched strawberry leaves are caused by a fungal infection which affects the foliage of strawberry plantings. ... Strawberries with leaf scorch may first show signs of issue with the development of small purplish blemishes that occur on the topside of leaves.</string>
+    <string name="apple_detail">"<font size="20"><b>Crop Advisory</b></font>\n\n<li> Apples grow best on a well-drained, loam soils having a depth of 45 cm and a pH range of pH 5.5-6.5. </li>
+        \n<li> The soil should be free from hard substrata and water-logged conditions.</li></string>
+
+    <string name="orange_detail"><font size="20"><b>Crop Advisory</b></font>\n\n <li> Agro-Climatic requirements for Orange Plantation:</li>
+        \n <li> Mandarins grow successfully in all frost-free tropical and sub-tropical regions up to 1,500 meters above m.s.l.</li></string>
+
+    <string name="pepper_detail">"<font size="20"><b>Crop Advisory</b></font>\n\n<li> Pepper is grown mainly as a rainfed crop.</li>
+        \n<li> Pepper requires heavy rainfall (150 - 250 cm) high humidity and warm climate.</li></string>
+
+    <string name="grape_detail">"<font size="20"><b>Crop Advisory</b></font>\n\n<li> Sandy to clayey and loamy soil with good drainage and irrigation facilities is suitable for the cultivation of Grapes.</li>
+        \n<li> Soils having pH value from 6.5 to 7.5 are most suitable.</li></string>
+
+    <string name="blueberry_detail"><font size="20"><b>Crop Advisory</b></font>\n"\n<li> Blueberry crop prefers soils which are highly acidic, fertile, aerated, moist and well-drained.</li>
+        \n<li> The optimal soil pH range is 4.0 to 5.5 for best growth and yield.</li>"</string>
+
+    <string name="corn_detail">"<font size="20"><b>Crop Advisory</b></font>\n\n<li> Maize requires fertile, deep and well drained soils.</li>
+        \n<li> It can be grown on any type of soil, ranging from deep heavy clays to light sandy ones.</li>"</string>
+
+    <string name="peach_detail">"<font size="20"><b>Crop Advisory</b></font>\n\n<li> Low chilling requiring (250-300 hrs) peach cultivars prefer low temperature in winters and high temperature (40°C) in summers for good colour development and ripening.</li>
+        \n<li> Peach is not very fastidious to its soil requirements.</li>"</string>
+
+    <string name="potato_detail">"<font size="20"><b>Crop Advisory</b></font>\n\n<li> Potato is mostly grown as a rained crop in regions receiving a rainfall of 1200 – 2000 mm per annum.</li>
+        \n<li> Planting is done during October – November in plains. About 3000 – 3500 kg/ha of seeds is required.</li>"</string>
+
+    <string name="tomato_detail">"<font size="20"><b>Crop Advisory</b></font>\n\n<li>The best fruit colour and quality is obtained at a temperature range of 21-24°C.</li>
+        \n<li> Temperatures above 32o C adversely affects the fruit set and development.</li>"</string>
+
+    <string name="strawberry_detail">"<font size="20"><b>Crop Advisory</b></font>\n\n<li> Strawberry requires a well-drained medium loam soil, rich in organic matter.</li>
+        \n<li> The soil should be slightly acidic with pH from 5.7 to 6.5.</li>"</string>
+
+    <string name="soybean_detail">"<font size="20"><b>Crop Advisory</b></font>\n\n<li> Climate- Soybean needs about 15 to 320C temperature for germination but for rapid growth the crop needs higher temperature.</li>
+        \n<li> The crop requires about 60-65 cm annual rainfall</li>"</string>
+
+    <string name="choose">Choose your preferred fertilizer combination (recommended amount for one year):</string>
+
+</resources>

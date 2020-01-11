@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".SplashActivity">
+
+    <ImageView
+            android:id="@+id/imglogo"
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="300dp"
+            android:src="@drawable/logo"></ImageView>
+
+    <TextView
+            android:id="@+id/title2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="100dp"
+            android:fontFamily="@font/aladin"
+            android:text="Care Green"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="65sp"
+            android:textStyle="bold"></TextView>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome"
+            android:textSize="32sp"
+            android:layout_below="@+id/title2"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"
+            android:id="@+id/welcome"></TextView>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/welcome"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/aref_ruqaa_bold"
+            android:text="Lets build a green future!"
+            android:textColor="#000000"
+            android:textSize="28sp"></TextView>
+
+</RelativeLayout>

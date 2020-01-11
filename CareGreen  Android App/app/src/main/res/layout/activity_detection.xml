@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".DetectionActivity">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="Choose any Option for Health Care"
+            android:textSize="23dp"
+            android:layout_marginTop="50dp"
+            android:textColor="#000000"
+            android:textStyle="bold"></TextView>
+
+    <Button
+            android:id="@+id/android_button"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:text="From Android Phone"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="150dp"
+            android:textSize="20dp"
+            android:background="@drawable/round_button"></Button>
+
+    <Button
+            android:id="@+id/drone_button"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:text="Capture Image From Drone"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="250dp"
+            android:textSize="18dp"
+            android:background="@drawable/round_button_health"></Button>
+
+    <Button
+            android:id="@+id/drone_detection_button"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:text="Detect"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="310dp"
+            android:textSize="15dp"
+            android:background="@drawable/round_button_health"></Button>
+
+    <Button
+            android:id="@+id/raspberry_button"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:text="Capture Image From Raspberry Pi"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="400dp"
+            android:textSize="18dp"
+            android:background="@drawable/round_button"></Button>
+
+    <ImageView
+            android:layout_width="350dp"
+            android:layout_height="350dp"
+            android:src="@drawable/drone"
+            android:layout_marginTop="460dp"
+            android:layout_centerHorizontal="true"></ImageView>
+
+</RelativeLayout>

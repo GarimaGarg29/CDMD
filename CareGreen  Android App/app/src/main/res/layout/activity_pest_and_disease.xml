@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PestAndDisease">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="209dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="2dp">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:background="@drawable/da"
+                android:layout_marginBottom="5dp"></Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:background="@drawable/doo"
+                android:layout_marginBottom="5dp"></Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:background="@drawable/dp"
+                android:layout_marginBottom="5dp"></Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:background="@drawable/dg"
+                android:layout_marginBottom="5dp"></Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:background="@drawable/db"
+                android:layout_marginBottom="5dp"></Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:background="@drawable/dc"
+                android:layout_marginBottom="5dp"></Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:background="@drawable/dpp"
+                android:layout_marginBottom="5dp"></Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:background="@drawable/dppp"
+                android:layout_marginBottom="5dp"></Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:background="@drawable/ds"
+                android:layout_marginBottom="5dp"></Button>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:background="@drawable/dss"
+                android:layout_marginBottom="5dp"></Button>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
