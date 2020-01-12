@@ -18,8 +18,7 @@ Crop disease detection and prevention system using Deep Learning and Android.
 
 <h2>Android App</h2>
 
-![StepWise2](https://user-images.githubusercontent.com/46889699/72204953-7d04c680-34a3-11ea-8e48-5ddb731bebfe.png)
-
+![CareGreenStep](https://user-images.githubusercontent.com/46889699/72213779-02778d80-351b-11ea-9222-53a48d3a5dea.png)
 
 <h2> Disease detection model details </h2>
 <ol>
